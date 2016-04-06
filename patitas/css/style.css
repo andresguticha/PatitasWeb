@@ -19,7 +19,7 @@
 .men-infe{	padding-top:5px; color:#fff; font-size:12px; text-align:center; line-height:17px;}
 
 body{
-background-image: url(../images/fondo2.jpg);
+background-image: url(../images/fondo1.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -27,17 +27,21 @@ background-size: cover;
 nav{
 width: 1200px;
 height: 48px;
-background: grey;
+background: darkmagenta;
 border-radius: 50px;
 margin-left: 50px;
+font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+
+
 
 }
 
 li{
 	float: left;
+
 	list-style-type: none;
 	padding: 10px;
-	background: blue;
+	background: darkorange;
 	margin: 5px;
 	border-radius: 20px;
 	box-shadow: 0 0 10px red inset; 
@@ -45,20 +49,20 @@ li{
 aside{
 
 	width: 150px;
-	background: black;
+	background: darkslateblue;
 	color: white;
 	height: 600px;
 	float: left;
-	margin-left: 10px;
-	margin-top: 20px;
+	margin-left: 5px;
+	margin-top: 10px;
 	border-radius: 10px;
 }
 section{
-	width: 1000px;
-	background: red;
+	width: 750px;
+	background: darkslateblue;
 	height: 600px;
 	float: left;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-left: 50px;
 	border-radius: 10px;
 }
@@ -72,13 +76,13 @@ text-align: center;
 
 h2{
 font-family: 'Indie Flower', cursive;
-color: white;
+color: darkmagenta;
 margin-left: 10px;
 font-size: 30px;
 text-align: center; 
 }
 
-/h3{
+h3{
 font-family: 'Shadows Into Light', cursive;;
 color: white;
 font-size: 30px;
@@ -106,8 +110,8 @@ padding-top: 4px;
 
 footer{
 width: 1200px;
-height: 150px;
-background: maroon;
+height: 80px;
+background: darkmagenta;
 float: left;
 margin-top: 10px;
 border-radius: 10px;
