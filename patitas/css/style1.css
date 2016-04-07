@@ -55,7 +55,7 @@ padding-top: 3px;
 section{
 	width: 1000px;
 	background: darkslateblue;
-	height: 600px;
+	height: 1400px;
 	float: left;
 	margin-top: 10px;
 	margin-left: 50px;
@@ -65,7 +65,7 @@ aside{
 
 	width: 150px;
 	background: darkslateblue;
-	height: 600px;
+	height: 1400px;
 	color: white;
 	float: left;
 	margin-left: 50px;
@@ -97,9 +97,10 @@ text-align: center;
 
 h4{
 font-family: 'Shadows Into Light', cursive;;
-color: white;
+color: yellow;
 font-size: 20px;
-text-align: center; 
+text-align: left; 
+margin-left: 50px;
 }
 
 footer{
@@ -121,6 +122,7 @@ p{
 	padding: 30px;
 	text-align: justify;
 	color: white;
+
 }
 
 
